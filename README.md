@@ -31,17 +31,21 @@ Por ejemplo:
     </body>
     </html>
 
-#### Lo segundo es comprobar que JeSpañol funciona por lo tanto incluye este código en tu archivo JavaScript
+#### Lo segundo es comprobar que JeSpañol funciona por lo tanto escribe este código en la consola de tu web:
 ```
 consola.mostrar($('html')[0])
 ```
 
 esto nos debe mostrar en la consola algo cómo esto:
 ```
-<html lang="es">
->> <head>...</head>
->> <body>...</body>
-</html>
+ >  consola.mostrar($('html')[0])                  
+___________________________________________________
+      <html lang="es">              JeSpañol.js:49 
+       >> <head>...</head>                         
+       >> <body>...</body>                         
+      </html>                                      
+___________________________________________________
+ <· undefined                                       
 ```
 
 #### Lo tercero es leerse la <a href="https://CodigoAR-JeS.github.io/docs/">documentación del funcionamiento de JeSpañol</a>
