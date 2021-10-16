@@ -6,7 +6,6 @@
 #### Lo primero es incluir este CDN antes de cerrar el `body` y antes de los demás `script`
 ```
 <script src="https://CodigoAR-JeS.github.io/js/JeSpañol.js"></script>
-
 ```
 
 Por ejemplo:
@@ -35,7 +34,6 @@ Por ejemplo:
 #### Lo segundo es comprobar que JeSpañol funciona por lo tanto incluye este código en tu archivo JavaScript
 ```
 consola.mostrar($('html')[0])
-
 ```
 
 esto nos debe mostrar en la consola algo cómo esto:
