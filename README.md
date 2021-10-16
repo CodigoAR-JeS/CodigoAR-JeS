@@ -5,7 +5,7 @@
 ## Empezar a usar JeSpañol
 #### Lo primero es incluir este CDN antes de cerrar el `body` y antes de los demás `script`
 ```
-<script src="https://CodigoAR-JeS.github.io/js/JeSpañol.js"></script>
+<script src="https://CodigoAR-JeS.github.io/js/JeSpañol.min.js"></script>
 ```
 
 Por ejemplo:
@@ -24,7 +24,7 @@ Por ejemplo:
         <!-- Tu HTML -->
         
         <!-- CDN JeSpañol OBLIGATORIO -->
-        <script src="https://CodigoAR-JeS.github.io/js/JeSpañol.js"></script>
+        <script src="https://CodigoAR-JeS.github.io/js/JeSpañol.min.js"></script>
         
         <!-- Tus SCRIPS -->
         
